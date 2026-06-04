@@ -44,9 +44,9 @@
   "popup_banner": {
     "enabled": true,
     "title": "WATCH\nLIVE CRICKET",
-    "image": "https://yourdomain.com/ipl_banner.webp",
+    "image": "https://i.postimg.cc/m2VQLbCG/6994be71-03fd-4fc1-8827-dff198cfd1cd.webp",
     "channel_id": 1,
-    "show_once": true,
+    "show_once": false,
     "closeable": true
   }
 }
