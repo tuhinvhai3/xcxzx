@@ -1,4 +1,13 @@
 {
+  "popup_banner": {
+    "enabled": true,
+    "title": "Watch Live Cricket",
+    "image": "https://i.postimg.cc/m2VQLbCG/6994be71-03fd-4fc1-8827-dff198cfd1cd.webp",
+    "channel_id": 23,
+    "closeable": true,
+    "show_once": true
+  },
+
   "banners": [
     {
       "id": 1,
@@ -16,29 +25,14 @@
       "click_url": "https://t.me/liveEXObd"
     }
   ],
+
   "channels": [
-    { "id": 1, "name": "Deepto TV", "category": "Entertainment", "logo": "https://tstatic.akash-go.com/cms-ui/images/custom-content/1742713000749.png", "stream_url": "https://owrcovcrpy.gpcdn.net/bpk-tv/1711/output/index.m3u8" },
-    { "id": 2, "name": "Bangla Vision", "category": "Entertainment", "logo": "https://tstatic.akash-go.com/cms-ui/images/custom-content/1735561344354.png", "stream_url": "https://owrcovcrpy.gpcdn.net/bpk-tv/1715/output/index.m3u8" },
-    { "id": 3, "name": "BTV", "category": "Entertainment", "logo": "https://tstatic.akash-go.com/cms-ui/images/custom-content/1735561595482.png", "stream_url": "https://owrcovcrpy.gpcdn.net/bpk-tv/1709/output/index.m3u8" },
-    { "id": 4, "name": "HUM TV", "category": "Entertainment", "logo": "https://tstatic.akash-go.com/cms-ui/images/custom-content/1739963480044.png", "stream_url": "https://owrcovcrpy.gpcdn.net/bpk-tv/1721/output/index.m3u8" },
-    { "id": 5, "name": "NTV", "category": "Entertainment", "logo": "https://tstatic.akash-go.com/cms-ui/images/custom-content/1735560841094.png", "stream_url": "https://owrcovcrpy.gpcdn.net/bpk-tv/1716/output/index.m3u8" },
-    { "id": 6, "name": "ATN Bangla", "category": "Entertainment", "logo": "https://tstatic.akash-go.com/cms-ui/images/custom-content/1740553740665.png", "stream_url": "https://owrcovcrpy.gpcdn.net/bpk-tv/1722/output/index.m3u8" },
-    { "id": 7, "name": "Channel I", "category": "Entertainment", "logo": "https://tstatic.akash-go.com/cms-ui/images/custom-content/1740567626692.png", "stream_url": "https://owrcovcrpy.gpcdn.net/bpk-tv/1723/output/index.m3u8" },
-    { "id": 8, "name": "Jamuna TV", "category": "News", "logo": "https://tstatic.akash-go.com/cms-ui/images/custom-content/1735560213832.png", "stream_url": "https://owrcovcrpy.gpcdn.net/bpk-tv/1701/output/index.m3u8" },
-    { "id": 9, "name": "ATN News", "category": "News", "logo": "https://tstatic.akash-go.com/cms-ui/images/custom-content/1739962961772.png", "stream_url": "https://owrcovcrpy.gpcdn.net/bpk-tv/1706/output/index.m3u8" },
-    { "id": 10, "name": "Channel 24", "category": "News", "logo": "https://tstatic.akash-go.com/cms-ui/images/custom-content/1735556516924.png", "stream_url": "https://owrcovcrpy.gpcdn.net/bpk-tv/1703/output/index.m3u8" },
-    { "id": 11, "name": "Ekattor", "category": "News", "logo": "https://tstatic.akash-go.com/cms-ui/images/custom-content/1739963327549.png", "stream_url": "https://owrcovcrpy.gpcdn.net/bpk-tv/1705/output/index.m3u8" },
-    { "id": 12, "name": "Independent TV", "category": "News", "logo": "https://tstatic.akash-go.com/cms-ui/images/custom-content/1739964387847.png", "stream_url": "https://owrcovcrpy.gpcdn.net/bpk-tv/1704/output/index.m3u8" },
-    { "id": 13, "name": "Somoy TV", "category": "News", "logo": "https://tstatic.akash-go.com/cms-ui/images/custom-content/1735560559088.png", "stream_url": "https://owrcovcrpy.gpcdn.net/bpk-tv/1702/output/index.m3u8" },
-    { "id": 14, "name": "Sun Bangla", "category": "News", "logo": "https://i.postimg.cc/KY6KNTBV/unnamed-3.png", "stream_url": "http://smart.bengaldigital.live/sun-bangla-paid/index.m3u8" },
-    { "id": 15, "name": "News 24", "category": "News", "logo": "https://ibb.co.com/Vpj8kBz2", "stream_url": "https://owrcovcrpy.gpcdn.net/bpk-tv/1708/output/index.m3u8" },
-    { "id": 16, "name": "Star News", "category": "News", "logo": "https://ibb.co.com/fV817csL", "stream_url": "https://owrcovcrpy.gpcdn.net/bpk-tv/1710/output/index.m3u8" },
-    { "id": 17, "name": "SA TV", "category": "News", "logo": "https://ibb.co.com/N0QnghQ", "stream_url": "https://owrcovcrpy.gpcdn.net/bpk-tv/1720/output/index.m3u8" },
-    { "id": 18, "name": "Al-Jazeera", "category": "News", "logo": "https://ibb.co.com/pgjpK9Y", "stream_url": "https://owrcovcrpy.gpcdn.net/bpk-tv/1721/output/index.m3u8" },
-    { "id": 19, "name": "Maasranga TV", "category": "News", "logo": "https://ibb.co.com/RpH0hrvg", "stream_url": "https://owrcovcrpy.gpcdn.net/bpk-tv/1722/output/index.m3u8" },
-    { "id": 20, "name": "Islamic TV", "category": "News", "logo": "https://ibb.co.com/Mx5WXT5r", "stream_url": "https://owrcovcrpy.gpcdn.net/bpk-tv/1724/output/index.m3u8" },
-    { "id": 21, "name": "DBC News", "category": "News", "logo": "https://ibb.co.com/gZ1Gz7b1", "stream_url": "https://owrcovcrpy.gpcdn.net/bpk-tv/1728/output/index.m3u8" },
-    { "id": 22, "name": "Channel 9", "category": "News", "logo": "https://ibb.co.com/WWPbCk4C", "stream_url": "https://owrcovcrpy.gpcdn.net/bpk-tv/1729/output/index.m3u8" },
-    { "id": 23, "name": "T- Sports", "category": "News", "logo": "https://ibb.co.com/G46V1MNT", "stream_url": "https://tvsen7.aynascope.net/tsports-hd/tracks-v1a1/mono.ts.m3u8?e=1774330298&token=171c97ea86621c20be681ccd3c11b169&u=ee5437a7-c16b-4700-b317-a41b77d5cba9" }
+    {
+      "id": 1,
+      "name": "Deepto TV",
+      "category": "Entertainment",
+      "logo": "https://tstatic.akash-go.com/cms-ui/images/custom-content/1742713000749.png",
+      "stream_url": "https://owrcovcrpy.gpcdn.net/bpk-tv/1711/output/index.m3u8"
+    }
   ]
 }
