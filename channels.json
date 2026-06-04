@@ -2,7 +2,7 @@
   "popup_banner": {
     "enabled": true,
     "title": "Watch Live Cricket",
-    "image": "https://i.postimg.cc/m2VQLbCG/6994be71-03fd-4fc1-8827-dff198cfd1cd.webp",
+    "image": "https://your-banner-image.webp",
     "channel_id": 23,
     "closeable": true,
     "show_once": true
@@ -27,12 +27,18 @@
   ],
 
   "channels": [
-    {
-      "id": 1,
-      "name": "Deepto TV",
-      "category": "Entertainment",
-      "logo": "https://tstatic.akash-go.com/cms-ui/images/custom-content/1742713000749.png",
-      "stream_url": "https://owrcovcrpy.gpcdn.net/bpk-tv/1711/output/index.m3u8"
+
+    {
+
+      "id": 1,
+
+      "name": "Deepto TV",
+
+      "category": "Entertainment",
+
+      "logo": "https://tstatic.akash-go.com/cms-ui/images/custom-content/1742713000749.png",
+
+      "stream_url": "https://owrcovcrpy.gpcdn.net/bpk-tv/1711/output/index.m3u8"
     }
   ]
 }
