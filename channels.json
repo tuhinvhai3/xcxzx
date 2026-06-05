@@ -17,7 +17,7 @@
     }
   ],
   "channels": [
-    { "id": 1, "name": "T Sports HD", "category": "Sports", "logo": "https://s3.aynaott.com/storage/9fbf3e9ed22c8cc71c93f25d6cb9be32", "stream_url": "https://tvsen7.aynaott.com/tsports-hd/tracks-v1a1/mono.ts.m3u8" },
+    { "id": 1, "name": "T Sports HD", "category": "Sports", "logo": "https://s3.aynaott.com/storage/9fbf3e9ed22c8cc71c93f25d6cb9be32", "stream_url": "http://198.195.239.50:8095/Tsports/tracks-v1a1/mono.m3u8" },
     { "id": 2, "name": "Channel I", "category": "Entertainment", "logo": "https://s3.aynaott.com/storage/28931315743beff50fc2c1312b1f8261", "stream_url": "https://tvsen6.aynaott.com/channeli/index.m3u8" },
     { "id": 3, "name": "NTV", "category": "Entertainment", "logo": "https://s3.aynaott.com/storage/73c39182782a201338070c2f4429e449", "stream_url": "https://tvsen5.aynaott.com/xV4jEKf3D9zc/index.fmp4.m3u8" },
     { "id": 4, "name": "Bangla Vision", "category": "Entertainment", "logo": "https://s3.aynaott.com/storage/e86c14566b4d5b6dd68ac37dce4f6043", "stream_url": "https://tvsen5.aynaott.com/banglavision/index.m3u8" },
