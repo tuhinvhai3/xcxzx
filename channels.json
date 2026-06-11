@@ -133,8 +133,8 @@
   ],
   "popup_banner": {
     "enabled": true,
-    "title": "WATCH\nLIVE CRICKET",
-    "image": "https://yourdomain.com/ipl_banner.webp",
+    "title": "WATCH\nLIVE FOOTBALL",
+    "image": "https://i.ibb.co.com/1jsmfjy/b1.png",
     "channel_id": 1,
     "show_once": false,
     "closeable": true
