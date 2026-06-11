@@ -17,8 +17,8 @@
     }
   ],
   "channels": [
-    { "id": 1, "name": "FIFA WORLD CUP", "category": "Sports", "logo": "https://i.ibb.co.com/Fq5CwRY1/1000257050.png", "stream_url": "https://tvsen5.aynaott.com/PtvSports/index.m3u8" },
-    { "id": 2, "name": "FIFA Football V2.0", "category": "Sports", "logo": "https://i.ibb.co.com/Fq5CwRY1/1000257050.png", "stream_url": "https://premierleagpl23.akamaized.net/hls/live/2107108/tapmad-P2s6L_FiN@L-UrU/level_0.m3u8" },
+    { "id": 1, "name": "FIFA WORLD CUP", "category": "Sports", "logo": "https://i.ibb.co.com/Fq5CwRY1/1000257050.png", "stream_url": "https://premierleagpl23.akamaized.net/hls/live/2107108/tapmad-P2s6L_FiN@L-UrU/level_0.m3u8" },
+    { "id": 2, "name": "FIFA Football V2.0", "category": "Sports", "logo": "https://i.ibb.co.com/Fq5CwRY1/1000257050.png", "stream_url": "https://tvsen5.aynaott.com/PtvSports/index.m3u8" },
     { "id": 3, "name": "FIFA 2026", "category": "Sports", "logo": "https://i.ibb.co.com/Fq5CwRY1/1000257050.png", "stream_url": "https://live12.xiazhix1.top/live/37111391.m3u8" },
     { "id": 4, "name": "Channel I", "category": "Entertainment", "logo": "https://s3.aynaott.com/storage/28931315743beff50fc2c1312b1f8261", "stream_url": "https://owrcovcrpy.gpcdn.net/bpk-tv/1723/output/index.m3u8" },
     { "id": 5, "name": "NTV", "category": "Entertainment", "logo": "https://s3.aynaott.com/storage/73c39182782a201338070c2f4429e449", "stream_url": "https://owrcovcrpy.gpcdn.net/bpk-tv/1716/output/index.m3u8" },
