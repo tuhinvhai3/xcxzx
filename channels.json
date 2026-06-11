@@ -18,8 +18,8 @@
   ],
   "channels": [
     { "id": 1, "name": "FIFA WORLD CUP", "category": "Sports", "logo": "https://thumbs.dreamstime.com/b/football-fifa-world-cup-canada-mexico-usa-vector-illustration-430888244.jpg", "stream_url": "https://tvsen5.aynaott.com/PtvSports/index.m3u8" },
-    { "id": 2, "name": "Star Sports 1", "category": "Sports", "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRPCvTmUhiKDs4ehoVpFLh7xwdCNK2-N_gNFqnaOM4YRQ&s=10", "stream_url": "https://tvsen7.aynaott.com/sspts1/tracks-v1a1/mono.ts.m3u8" },
-    { "id": 3, "name": "A sports", "category": "Sports", "logo": "https://s3.aynaott.com/storage/f32cb68f73e383cf0e3f12ad2732b902", "stream_url": "https://tvsen7.aynaott.com/asports-bkp/index.m3u8" },
+    { "id": 2, "name": "FIFA Football V2.0", "category": "Sports", "logo": "2026_FIFA_World_Cup_emblem.svg.png", "stream_url": "https://premierleagpl23.akamaized.net/hls/live/2107108/tapmad-P2s6L_FiN@L-UrU/level_0.m3u8" },
+    { "id": 3, "name": "FIFA 2026", "category": "Sports", "logo": "2026_FIFA_World_Cup_emblem.svg.png", "stream_url": "https://live12.xiazhix1.top/live/37111391.m3u8" },
     { "id": 4, "name": "Channel I", "category": "Entertainment", "logo": "https://s3.aynaott.com/storage/28931315743beff50fc2c1312b1f8261", "stream_url": "https://owrcovcrpy.gpcdn.net/bpk-tv/1723/output/index.m3u8" },
     { "id": 5, "name": "NTV", "category": "Entertainment", "logo": "https://s3.aynaott.com/storage/73c39182782a201338070c2f4429e449", "stream_url": "https://owrcovcrpy.gpcdn.net/bpk-tv/1716/output/index.m3u8" },
     { "id": 6, "name": "Bangla Vision", "category": "Entertainment", "logo": "https://s3.aynaott.com/storage/e86c14566b4d5b6dd68ac37dce4f6043", "stream_url": "https://owrcovcrpy.gpcdn.net/bpk-tv/1715/output/index.m3u8" },
