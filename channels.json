@@ -129,7 +129,9 @@
     { "id": 110, "name": "MTV", "category": "Entertainment", "logo": "https://s3.aynaott.com/storage/1fbfc7fa968ff490b35b7b5cf1db4508", "stream_url": "https://tvsen6.aynaott.com/mtv/index.m3u8" },
     { "id": 111, "name": "USA TV", "category": "Entertainment", "logo": "https://s3.aynaott.com/storage/4a8c4ef5769fdd11b640dcf5795221bd", "stream_url": "https://tvsen6.aynaott.com/usa/index.m3u8" },
     { "id": 112, "name": "MSNBC News", "category": "News", "logo": "https://s3.aynaott.com/storage/f8c19ede8d86895e54e804d2731e81b4", "stream_url": "https://tvsen6.aynaott.com/msnbc/index.m3u8" },
-    { "id": 113, "name": "Iqra Bangla", "category": "Entertainment", "logo": "https://s3.aynaott.com/storage/19e62cfd082b5cd7b254fb9f75f2f763", "stream_url": "https://tvsen5.aynaott.com/iqrabangla/index.m3u8" }
+    { "id": 113, "name": "Iqra Bangla", "category": "Entertainment", "logo": "https://s3.aynaott.com/storage/19e62cfd082b5cd7b254fb9f75f2f763", "stream_url": "https://tvsen5.aynaott.com/iqrabangla/index.m3u8" },
+
+{ "id": 114, "name": "Sony AATH", "category": "Entertainment", "logo": "http://198.195.239.50/img/channels/SONY%20AATH.png", "stream_url": "http://198.195.239.50:8095/sonyAath/index.m3u8" }
   ],
   "popup_banner": {
     "enabled": true,
