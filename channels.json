@@ -652,13 +652,6 @@
       "logo": "https://s3.aynaott.com/storage/4e21114ecbe7c117e3e6fd31a062bb71",
       "name": "CP 24",
       "stream_url": "https://tvsen6.aynaott.com/cp24/index.m3u8"
-    },
-    {
-      "category": "Entertainment",
-      "id": 92,
-      "logo": "https://s3.aynaott.com/storage/19e62cfd082b5cd7b254fb9f75f2f763",
-      "name": "Iqra Bangla",
-      "stream_url": "https://tvsen5.aynaott.com/iqrabangla/index.m3u8"
     }
   ],
   "popup_banner": {
