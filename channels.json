@@ -794,13 +794,6 @@
       "stream_url": "https://tvsen6.aynaott.com/usa/index.m3u8"
     },
     {
-      "category": "News",
-      "id": 112,
-      "logo": "https://s3.aynaott.com/storage/f8c19ede8d86895e54e804d2731e81b4",
-      "name": "MSNBC News",
-      "stream_url": "https://tvsen6.aynaott.com/msnbc/index.m3u8"
-    },
-    {
       "category": "Entertainment",
       "id": 113,
       "logo": "https://s3.aynaott.com/storage/19e62cfd082b5cd7b254fb9f75f2f763",
