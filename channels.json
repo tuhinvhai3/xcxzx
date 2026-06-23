@@ -650,7 +650,7 @@
   "popup_banner": {
     "channel_id": 1,
     "closeable": true,
-    "enabled": true,
+    "enabled": false,
     "image": "https://i.ibb.co.com/1jsmfjy/b1.png",
     "show_once": false,
     "title": "WATCH\nLIVE FOOTBALL"
