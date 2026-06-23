@@ -640,15 +640,8 @@
       "stream_url": "https://tvsen6.aynaott.com/foodnetwork/index.m3u8"
     },
     {
-      "category": "Entertainment",
-      "id": 90,
-      "logo": "https://s3.aynaott.com/storage/e6a7b2f60f6b1f0012bcf14140341435",
-      "name": "Travel Channel",
-      "stream_url": "https://tvsen6.aynaott.com/travelxp/index.m3u8"
-    },
-    {
       "category": "News",
-      "id": 91,
+      "id": 90,
       "logo": "https://s3.aynaott.com/storage/4e21114ecbe7c117e3e6fd31a062bb71",
       "name": "CP 24",
       "stream_url": "https://tvsen6.aynaott.com/cp24/index.m3u8"
