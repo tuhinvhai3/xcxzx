@@ -147,7 +147,7 @@
       "id": 19,
       "logo": "https://s3.aynaott.com/storage/8e9db8284bf110dce597f48674d1968a",
       "name": "ATN News",
-      "stream_url": "https://owrcovcrpy.gpcdn.net/bpk-tv/1706/output/index.m3u8"
+      "stream_url": "https://owrcovcrpy.gpcdn.net/bpk-tv/1705/output/index.m3u8"
     },
     {
       "category": "Entertainment",
@@ -319,56 +319,56 @@
     },
     {
       "category": "Entertainment",
-      "id": 45,
+      "id": 44,
       "logo": "https://s3.aynaott.com/storage/80d0b169bd027e8bf54a5e75f31d1d75",
       "name": "Cartoon Network",
       "stream_url": "https://tvsen5.aynaott.com/cartoonnetwork/index.fmp4.m3u8"
     },
     {
       "category": "Entertainment",
-      "id": 46,
+      "id": 45,
       "logo": "https://s3.aynaott.com/storage/d3e8d014002832d32c029f445c105aae",
       "name": "Nicktoons",
       "stream_url": "https://tvsen5.aynaott.com/nicktoons/index.fmp4.m3u8"
     },
     {
       "category": "Entertainment",
-      "id": 47,
+      "id": 46,
       "logo": "https://s3.aynaott.com/storage/722bc45fb2bc26f967c2e22714095ad5",
       "name": "Nickjr",
       "stream_url": "https://tvsen5.aynaott.com/nickjr/index.fmp4.m3u8"
     },
     {
       "category": "Entertainment",
-      "id": 48,
+      "id": 47,
       "logo": "https://s3.aynaott.com/storage/838ac6ede3fca74f793cde5dccabf3c4",
       "name": "Sony TV HD",
       "stream_url": "https://tvsen5.aynaott.com/Wfn4bVp3dLgA/index.m3u8"
     },
     {
       "category": "Entertainment",
-      "id": 49,
+      "id": 48,
       "logo": "https://s3.aynaott.com/storage/1286549bfbdf6c3b4ff1f259b4d52bb4",
       "name": "Discovery Family",
       "stream_url": "https://tvsen5.aynaott.com/discoveryfamily/index.m3u8"
     },
     {
       "category": "Entertainment",
-      "id": 50,
+      "id": 49,
       "logo": "https://s3.aynaott.com/storage/0416cc63326da27ad8ec18fb91840c36",
       "name": "Animal Planet HD",
       "stream_url": "https://tvsen6.aynaott.com/animal_planet_hd/index.m3u8"
     },
     {
       "category": "Entertainment",
-      "id": 51,
+      "id": 50,
       "logo": "https://yt3.googleusercontent.com/ytc/AIdro_kUVgsElgaFpQZNYILWQ0HLa-MAmbEjWNRBRqKms5qML2Q=s900-c-k-c0x00ffffff-no-rj",
       "name": "Enter 10 Bangla",
       "stream_url": "https://live-bangla.akamaized.net/liveabr/pub-iobanglakp3sff/live_720p/chunks.m3u8"
     },
     {
       "category": "Entertainment",
-      "id": 52,
+      "id": 51,
       "logo": "https://tstatic.akash-go.com/cms-ui/images/custom-content/1739964387847.png",
       "name": "Independent TV",
       "stream_url": "https://owrcovcrpy.gpcdn.net/bpk-tv/1704/output/index.m3u8"
