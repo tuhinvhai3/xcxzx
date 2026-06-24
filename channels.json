@@ -81,13 +81,6 @@
     },
     {
       "category": "Entertainment",
-      "id": 12,
-      "logo": "https://s3.aynaott.com/storage/28931315743beff50fc2c1312b1f8261",
-      "name": "Channel I",
-      "stream_url": "https://owrcovcrpy.gpcdn.net/bpk-tv/1723/output/index.m3u8"
-    },
-    {
-      "category": "Entertainment",
       "id": 13,
       "logo": "https://s3.aynaott.com/storage/73c39182782a201338070c2f4429e449",
       "name": "NTV",
