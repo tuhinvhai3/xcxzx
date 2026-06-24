@@ -256,13 +256,6 @@
     },
     {
       "category": "News",
-      "id": 41,
-      "logo": "https://s3.aynaott.com/storage/d1c5e1f2498dbc018610f1586ab660e5",
-      "name": "CNN",
-      "stream_url": "https://tvsen6.aynaott.com/cnn/index.m3u8"
-    },
-    {
-      "category": "News",
       "id": 42,
       "logo": "https://tstatic.akash-go.com/cms-ui/images/custom-content/1770189826301.png",
       "name": "Star News",
