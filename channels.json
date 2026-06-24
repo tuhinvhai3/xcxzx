@@ -319,13 +319,6 @@
     },
     {
       "category": "Entertainment",
-      "id": 44,
-      "logo": "https://s3.aynaott.com/storage/20e835171a2d078ca6c678fc95bd4bbd",
-      "name": "BTV CTG",
-      "stream_url": "https://tvsen6.aynaott.com/btvctg/index.m3u8"
-    },
-    {
-      "category": "Entertainment",
       "id": 45,
       "logo": "https://s3.aynaott.com/storage/80d0b169bd027e8bf54a5e75f31d1d75",
       "name": "Cartoon Network",
