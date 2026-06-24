@@ -81,13 +81,6 @@
     },
     {
       "category": "Entertainment",
-      "id": 11,
-      "logo": "https://s3.aynaott.com/storage/12462ef0383fa0e927215d56cd51acf8",
-      "name": "Deepto TV",
-      "stream_url": "https://owrcovcrpy.gpcdn.net/bpk-tv/1711/output/index.m3u8"
-    },
-    {
-      "category": "Entertainment",
       "id": 12,
       "logo": "https://s3.aynaott.com/storage/28931315743beff50fc2c1312b1f8261",
       "name": "Channel I",
