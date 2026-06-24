@@ -284,98 +284,98 @@
     },
     {
       "category": "News",
-      "id": 40,
+      "id": 39,
       "logo": "https://s3.aynaott.com/storage/b102f206ea73dfdbc591e9cf6c8c478d",
       "name": "News 24 BD",
       "stream_url": "https://tvsen6.aynaott.com/news24/index.m3u8"
     },
     {
       "category": "News",
-      "id": 41,
+      "id": 40,
       "logo": "https://tstatic.akash-go.com/cms-ui/images/custom-content/1735556516924.png",
       "name": "Channel 24 HD",
       "stream_url": "https://owrcovcrpy.gpcdn.net/bpk-tv/1703/output/index.m3u8"
     },
     {
       "category": "News",
-      "id": 42,
+      "id": 41,
       "logo": "https://s3.aynaott.com/storage/18c65f48bb15b1e59a8d91b8d1675122",
       "name": "Jamuna TV",
       "stream_url": "https://owrcovcrpy.gpcdn.net/bpk-tv/1701/output/index.m3u8"
     },
     {
       "category": "News",
-      "id": 43,
+      "id": 42,
       "logo": "https://s3.aynaott.com/storage/d1c5e1f2498dbc018610f1586ab660e5",
       "name": "CNN",
       "stream_url": "https://tvsen6.aynaott.com/cnn/index.m3u8"
     },
     {
       "category": "News",
-      "id": 44,
+      "id": 43,
       "logo": "https://tstatic.akash-go.com/cms-ui/images/custom-content/1770189826301.png",
       "name": "Star News",
       "stream_url": "https://owrcovcrpy.gpcdn.net/bpk-tv/1710/output/index.m3u8"
     },
     {
       "category": "Entertainment",
-      "id": 45,
+      "id": 44,
       "logo": "https://s3.aynaott.com/storage/20e835171a2d078ca6c678fc95bd4bbd",
       "name": "BTV CTG",
       "stream_url": "https://tvsen6.aynaott.com/btvctg/index.m3u8"
     },
     {
       "category": "Entertainment",
-      "id": 46,
+      "id": 45,
       "logo": "https://s3.aynaott.com/storage/80d0b169bd027e8bf54a5e75f31d1d75",
       "name": "Cartoon Network",
       "stream_url": "https://tvsen5.aynaott.com/cartoonnetwork/index.fmp4.m3u8"
     },
     {
       "category": "Entertainment",
-      "id": 47,
+      "id": 46,
       "logo": "https://s3.aynaott.com/storage/d3e8d014002832d32c029f445c105aae",
       "name": "Nicktoons",
       "stream_url": "https://tvsen5.aynaott.com/nicktoons/index.fmp4.m3u8"
     },
     {
       "category": "Entertainment",
-      "id": 48,
+      "id": 47,
       "logo": "https://s3.aynaott.com/storage/722bc45fb2bc26f967c2e22714095ad5",
       "name": "Nickjr",
       "stream_url": "https://tvsen5.aynaott.com/nickjr/index.fmp4.m3u8"
     },
     {
       "category": "Entertainment",
-      "id": 49,
+      "id": 48,
       "logo": "https://s3.aynaott.com/storage/838ac6ede3fca74f793cde5dccabf3c4",
       "name": "Sony TV HD",
       "stream_url": "https://tvsen5.aynaott.com/Wfn4bVp3dLgA/index.m3u8"
     },
     {
       "category": "Entertainment",
-      "id": 50,
+      "id": 49,
       "logo": "https://s3.aynaott.com/storage/1286549bfbdf6c3b4ff1f259b4d52bb4",
       "name": "Discovery Family",
       "stream_url": "https://tvsen5.aynaott.com/discoveryfamily/index.m3u8"
     },
     {
       "category": "Entertainment",
-      "id": 51,
+      "id": 50,
       "logo": "https://s3.aynaott.com/storage/0416cc63326da27ad8ec18fb91840c36",
       "name": "Animal Planet HD",
       "stream_url": "https://tvsen6.aynaott.com/animal_planet_hd/index.m3u8"
     },
     {
       "category": "Entertainment",
-      "id": 52,
+      "id": 51,
       "logo": "https://yt3.googleusercontent.com/ytc/AIdro_kUVgsElgaFpQZNYILWQ0HLa-MAmbEjWNRBRqKms5qML2Q=s900-c-k-c0x00ffffff-no-rj",
       "name": "Enter 10 Bangla",
       "stream_url": "https://live-bangla.akamaized.net/liveabr/pub-iobanglakp3sff/live_720p/chunks.m3u8"
     },
     {
       "category": "Entertainment",
-      "id": 53,
+      "id": 52,
       "logo": "https://tstatic.akash-go.com/cms-ui/images/custom-content/1739964387847.png",
       "name": "Independent TV",
       "stream_url": "https://owrcovcrpy.gpcdn.net/bpk-tv/1704/output/index.m3u8"
