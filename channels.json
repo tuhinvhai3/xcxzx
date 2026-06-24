@@ -81,13 +81,6 @@
     },
     {
       "category": "Entertainment",
-      "id": 13,
-      "logo": "https://s3.aynaott.com/storage/73c39182782a201338070c2f4429e449",
-      "name": "NTV",
-      "stream_url": "https://owrcovcrpy.gpcdn.net/bpk-tv/1716/output/index.m3u8"
-    },
-    {
-      "category": "Entertainment",
       "id": 14,
       "logo": "https://s3.aynaott.com/storage/e86c14566b4d5b6dd68ac37dce4f6043",
       "name": "Bangla Vision",
