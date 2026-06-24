@@ -543,13 +543,6 @@
     },
     {
       "category": "Entertainment",
-      "id": 83,
-      "logo": "https://s3.aynaott.com/storage/a756b8c8a5f6cf65140f84ee26cfedf8",
-      "name": "RDS Social TV",
-      "stream_url": "https://tvsen6.aynaott.com/RDSSocialTV/index.m3u8"
-    },
-    {
-      "category": "Entertainment",
       "id": 88,
       "logo": "https://s3.aynaott.com/storage/1286549bfbdf6c3b4ff1f259b4d52bb4",
       "name": "Discovery Family",
