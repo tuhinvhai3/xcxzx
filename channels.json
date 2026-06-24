@@ -186,13 +186,6 @@
     },
     {
       "category": "Entertainment",
-      "id": 27,
-      "logo": "https://s3.aynaott.com/storage/663c8079982ff6a45fc99e78c865a63d",
-      "name": "Mohona TV",
-      "stream_url": "https://tvsen6.aynaott.com/mohonatv/index.m3u8"
-    },
-    {
-      "category": "Entertainment",
       "id": 28,
       "logo": "https://s3.aynaott.com/storage/589934eb6a1c264a0ee6bf6d82fad81c",
       "name": "Bijoy TV",
