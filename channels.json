@@ -214,13 +214,6 @@
     },
     {
       "category": "Entertainment",
-      "id": 35,
-      "logo": "https://s3.aynaott.com/storage/bda05e1c2173251baebc20ffe43dea0b",
-      "name": "Global TV",
-      "stream_url": "https://tvsen6.aynaott.com/globaltvhd/index.m3u8"
-    },
-    {
-      "category": "Entertainment",
       "id": 36,
       "logo": "https://s3.aynaott.com/storage/225c955ff4174c976ab01d7214b3f28f",
       "name": "Ananda TV",
