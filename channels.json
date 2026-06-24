@@ -185,13 +185,6 @@
       "stream_url": "https://owrcovcrpy.gpcdn.net/bpk-tv/1701/output/index.m3u8"
     },
     {
-      "category": "Entertainment",
-      "id": 29,
-      "logo": "https://s3.aynaott.com/storage/225c955ff4174c976ab01d7214b3f28f",
-      "name": "Ananda TV",
-      "stream_url": "https://tvsen6.aynaott.com/anandatv/index.m3u8"
-    },
-    {
       "category": "News",
       "id": 30,
       "logo": "https://tstatic.akash-go.com/cms-ui/images/custom-content/1746005940155.png",
