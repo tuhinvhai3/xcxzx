@@ -550,13 +550,6 @@
     },
     {
       "category": "Entertainment",
-      "id": 84,
-      "logo": "https://s3.aynaott.com/storage/f4e08ab98f26325954871671ab4716df",
-      "name": "Afroturk TV",
-      "stream_url": "https://tvsen6.aynaott.com/AfroturkTV/index.m3u8"
-    },
-    {
-      "category": "Entertainment",
       "id": 88,
       "logo": "https://s3.aynaott.com/storage/1286549bfbdf6c3b4ff1f259b4d52bb4",
       "name": "Discovery Family",
