@@ -270,13 +270,6 @@
     },
     {
       "category": "Entertainment",
-      "id": 47,
-      "logo": "https://s3.aynaott.com/storage/1286549bfbdf6c3b4ff1f259b4d52bb4",
-      "name": "Discovery Family",
-      "stream_url": "https://tvsen5.aynaott.com/discoveryfamily/index.m3u8"
-    },
-    {
-      "category": "Entertainment",
       "id": 48,
       "logo": "https://s3.aynaott.com/storage/0416cc63326da27ad8ec18fb91840c36",
       "name": "Animal Planet HD",
