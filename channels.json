@@ -389,13 +389,6 @@
     },
     {
       "category": "News",
-      "id": 60,
-      "logo": "https://s3.aynaott.com/storage/a9517064cd265264a1e94945be044152",
-      "name": "ABC News",
-      "stream_url": "https://tvsen6.aynaott.com/AbcNews/index.m3u8"
-    },
-    {
-      "category": "News",
       "id": 61,
       "logo": "https://s3.aynaott.com/storage/cbadf009eebf7506c7633b3a98a2f042",
       "name": "Somoy News TV",
