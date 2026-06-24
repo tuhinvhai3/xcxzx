@@ -276,13 +276,6 @@
       "stream_url": "https://tvsen6.aynaott.com/MarqueeSportsNetwork/index.m3u8"
     },
     {
-      "category": "Sports",
-      "id": 44,
-      "logo": "https://s3.aynaott.com/storage/3f861fcc2ab5cbd79237ceebf0f33e36",
-      "name": "Sports Grid",
-      "stream_url": "https://tvsen6.aynaott.com/SportsGrid/index.m3u8"
-    },
-    {
       "category": "News",
       "id": 47,
       "logo": "https://s3.aynaott.com/storage/d1c5e1f2498dbc018610f1586ab660e5",
