@@ -452,13 +452,6 @@
     },
     {
       "category": "News",
-      "id": 69,
-      "logo": "https://s3.aynaott.com/storage/9a95157d5bce721ea06594e8b63b4e6a",
-      "name": "AlJazeera",
-      "stream_url": "https://tvsen6.aynaott.com/aljazeera/index.m3u8"
-    },
-    {
-      "category": "News",
       "id": 70,
       "logo": "https://s3.aynaott.com/storage/f4390c1bba69689aba959b0ca52505c3",
       "name": "NHK World",
