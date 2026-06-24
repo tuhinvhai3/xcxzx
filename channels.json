@@ -81,13 +81,6 @@
     },
     {
       "category": "Entertainment",
-      "id": 15,
-      "logo": "https://s3.aynaott.com/storage/a4d2bbdb65b4abc239eaddedda1e5d22",
-      "name": "ATN Bangla",
-      "stream_url": "https://owrcovcrpy.gpcdn.net/bpk-tv/1722/output/index.m3u8"
-    },
-    {
-      "category": "Entertainment",
       "id": 16,
       "logo": "https://s3.aynaott.com/storage/d805cf57543080b49de8a2621cd54da4",
       "name": "ETV",
