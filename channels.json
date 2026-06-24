@@ -452,13 +452,6 @@
     },
     {
       "category": "News",
-      "id": 70,
-      "logo": "https://s3.aynaott.com/storage/f4390c1bba69689aba959b0ca52505c3",
-      "name": "NHK World",
-      "stream_url": "https://tvsen6.aynaott.com/nhkworld/index.m3u8"
-    },
-    {
-      "category": "News",
       "id": 71,
       "logo": "https://s3.aynaott.com/storage/d42881d389280575f8150a11375ef4fb",
       "name": "Fox News",
