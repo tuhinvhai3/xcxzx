@@ -291,13 +291,6 @@
     },
     {
       "category": "News",
-      "id": 46,
-      "logo": "https://s3.aynaott.com/storage/a9517064cd265264a1e94945be044152",
-      "name": "ABC News",
-      "stream_url": "https://tvsen6.aynaott.com/AbcNews/index.m3u8"
-    },
-    {
-      "category": "News",
       "id": 47,
       "logo": "https://s3.aynaott.com/storage/d1c5e1f2498dbc018610f1586ab660e5",
       "name": "CNN",
