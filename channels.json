@@ -108,13 +108,6 @@
       "stream_url": "https://owrcovcrpy.gpcdn.net/bpk-tv/1701/output/index.m3u8"
     },
     {
-      "category": "News",
-      "id": 14,
-      "logo": "https://s3.aynaott.com/storage/cbadf009eebf7506c7633b3a98a2f042",
-      "name": "Somoy News TV",
-      "stream_url": "https://tvsen6.aynaott.com/somoytv/index.m3u8"
-    },
-    {
       "category": "Entertainment",
       "id": 15,
       "logo": "https://s3.aynaott.com/storage/9ef657aca7c0009e4f0675af3b5190d8",
