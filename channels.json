@@ -263,13 +263,6 @@
     },
     {
       "category": "Entertainment",
-      "id": 46,
-      "logo": "https://s3.aynaott.com/storage/838ac6ede3fca74f793cde5dccabf3c4",
-      "name": "Sony TV HD",
-      "stream_url": "https://tvsen5.aynaott.com/Wfn4bVp3dLgA/index.m3u8"
-    },
-    {
-      "category": "Entertainment",
       "id": 49,
       "logo": "https://yt3.googleusercontent.com/ytc/AIdro_kUVgsElgaFpQZNYILWQ0HLa-MAmbEjWNRBRqKms5qML2Q=s900-c-k-c0x00ffffff-no-rj",
       "name": "Enter 10 Bangla",
