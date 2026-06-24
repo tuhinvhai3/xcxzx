@@ -109,13 +109,6 @@
     },
     {
       "category": "Entertainment",
-      "id": 14,
-      "logo": "https://s3.aynaott.com/storage/0b4d83d0baf7513beae135e134fced2c",
-      "name": "Gazi TV",
-      "stream_url": "https://tvsen5.aynaott.com/Ravc7gPCZpxk/index.m3u8"
-    },
-    {
-      "category": "Entertainment",
       "id": 15,
       "logo": "https://s3.aynaott.com/storage/9ef657aca7c0009e4f0675af3b5190d8",
       "name": "Desh TV",
