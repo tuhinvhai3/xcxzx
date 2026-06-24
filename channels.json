@@ -563,13 +563,6 @@
       "stream_url": "https://tvsen6.aynaott.com/discovery_turbo/index.m3u8"
     },
     {
-      "category": "News",
-      "id": 86,
-      "logo": "https://s3.aynaott.com/storage/544a69f01c5cdfb1647fb2805dba72a5",
-      "name": "Fox business",
-      "stream_url": "https://tvsen6.aynaott.com/foxbusiness/index.m3u8"
-    },
-    {
       "category": "Entertainment",
       "id": 88,
       "logo": "https://s3.aynaott.com/storage/1286549bfbdf6c3b4ff1f259b4d52bb4",
