@@ -311,13 +311,6 @@
       "stream_url": "https://tvsen6.aynaott.com/aljazeera/index.m3u8"
     },
     {
-      "category": "News",
-      "id": 49,
-      "logo": "https://s3.aynaott.com/storage/f4390c1bba69689aba959b0ca52505c3",
-      "name": "NHK World",
-      "stream_url": "https://tvsen6.aynaott.com/nhkworld/index.m3u8"
-    },
-    {
       "category": "Entertainment",
       "id": 51,
       "logo": "https://s3.aynaott.com/storage/a8f87ac6b4731011dcc61c957f56d47b",
