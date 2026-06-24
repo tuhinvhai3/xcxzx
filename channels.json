@@ -81,13 +81,6 @@
     },
     {
       "category": "Entertainment",
-      "id": 14,
-      "logo": "https://s3.aynaott.com/storage/e86c14566b4d5b6dd68ac37dce4f6043",
-      "name": "Bangla Vision",
-      "stream_url": "https://owrcovcrpy.gpcdn.net/bpk-tv/1715/output/index.m3u8"
-    },
-    {
-      "category": "Entertainment",
       "id": 15,
       "logo": "https://s3.aynaott.com/storage/a4d2bbdb65b4abc239eaddedda1e5d22",
       "name": "ATN Bangla",
