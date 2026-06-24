@@ -284,13 +284,6 @@
     },
     {
       "category": "News",
-      "id": 39,
-      "logo": "https://s3.aynaott.com/storage/94ff4123b6c533d0332d63944ccf5868",
-      "name": "Ekhon TV",
-      "stream_url": "https://tvsen6.aynaott.com/ekhontv/index.m3u8"
-    },
-    {
-      "category": "News",
       "id": 40,
       "logo": "https://s3.aynaott.com/storage/b102f206ea73dfdbc591e9cf6c8c478d",
       "name": "News 24 BD",
