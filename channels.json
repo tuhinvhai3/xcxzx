@@ -263,13 +263,6 @@
     },
     {
       "category": "Entertainment",
-      "id": 44,
-      "logo": "https://s3.aynaott.com/storage/d3e8d014002832d32c029f445c105aae",
-      "name": "Nicktoons",
-      "stream_url": "https://tvsen5.aynaott.com/nicktoons/index.fmp4.m3u8"
-    },
-    {
-      "category": "Entertainment",
       "id": 45,
       "logo": "https://s3.aynaott.com/storage/722bc45fb2bc26f967c2e22714095ad5",
       "name": "Nickjr",
