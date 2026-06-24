@@ -374,13 +374,6 @@
       "stream_url": "https://tvsen6.aynaott.com/talkSPORT/index.m3u8"
     },
     {
-      "category": "Sports",
-      "id": 58,
-      "logo": "https://s3.aynaott.com/storage/d72dc144babfe40fb35620ee1c1822d1",
-      "name": "ERT Sports 1",
-      "stream_url": "https://tvsen6.aynaott.com/ERTSports1/index.m3u8"
-    },
-    {
       "category": "News",
       "id": 61,
       "logo": "https://s3.aynaott.com/storage/cbadf009eebf7506c7633b3a98a2f042",
