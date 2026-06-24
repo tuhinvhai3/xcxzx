@@ -557,13 +557,6 @@
     },
     {
       "category": "Entertainment",
-      "id": 85,
-      "logo": "https://s3.aynaott.com/storage/4dd4da17998dfdf28ffbcd721966889d",
-      "name": "Discovery Turbo",
-      "stream_url": "https://tvsen6.aynaott.com/discovery_turbo/index.m3u8"
-    },
-    {
-      "category": "Entertainment",
       "id": 88,
       "logo": "https://s3.aynaott.com/storage/1286549bfbdf6c3b4ff1f259b4d52bb4",
       "name": "Discovery Family",
