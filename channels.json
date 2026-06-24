@@ -571,13 +571,6 @@
     },
     {
       "category": "Entertainment",
-      "id": 87,
-      "logo": "https://s3.aynaott.com/storage/5c1c4226b2c12b3c0bb3c258700f72d0",
-      "name": "Fox 5",
-      "stream_url": "https://tvsen6.aynaott.com/fox5/index.m3u8"
-    },
-    {
-      "category": "Entertainment",
       "id": 88,
       "logo": "https://s3.aynaott.com/storage/1286549bfbdf6c3b4ff1f259b4d52bb4",
       "name": "Discovery Family",
