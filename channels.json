@@ -255,13 +255,6 @@
       "stream_url": "https://tvsen6.aynaott.com/talkSPORT/index.m3u8"
     },
     {
-      "category": "Sports",
-      "id": 41,
-      "logo": "https://s3.aynaott.com/storage/d9db3f2407053944af13981bed771305",
-      "name": "KTV Sport Plus",
-      "stream_url": "https://tvsen6.aynaott.com/ktvsportsplus/index.m3u8"
-    },
-    {
       "category": "News",
       "id": 47,
       "logo": "https://s3.aynaott.com/storage/d1c5e1f2498dbc018610f1586ab660e5",
