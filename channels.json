@@ -265,8 +265,8 @@
   "popup_banner": {
     "channel_id": 1,
     "closeable": true,
-    "enabled": false,
-    "image": "https://i.postimg.cc/LXLz27QC/1000259363-(1).png",
+    "enabled": true,
+    "image": "https://i.postimg.cc/J42GmTQf/1000259570.png",
     "show_once": false,
     "title": "WATCH\nLIVE FOOTBALL"
   }
