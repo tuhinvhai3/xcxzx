@@ -269,5 +269,12 @@
     "image": "https://i.postimg.cc/J42GmTQf/1000259570.png",
     "show_once": false,
     "title": "ㅤ"
+  },
+  "update_banner": {
+    "button_text": "Download",
+    "download_url": "https://YouTube.com",
+    "enabled": true,
+    "message": "Update Now!!",
+    "title": "New Update Available"
   }
 }
