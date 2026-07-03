@@ -273,7 +273,7 @@
   "update_banner": {
     "button_text": "Download",
     "download_url": "https://YouTube.com",
-    "enabled": true,
+    "enabled": false,
     "message": "Update Now!!",
     "title": "New Update Available"
   }
