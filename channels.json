@@ -32,14 +32,10 @@
     },
     {
       "category": "Sports",
-  "id": 1,
-  "logo": "https://assets.football-logos.cc/logos/tournaments/1500x1500/fifa-world-cup-2026--white.10e0b37b.png",
-  "name": "FIFA লাইভ 🔥",
-  "stream_url": "https://live.thebosstv.com:30443/dwlive/Somoy-TV/chunks.m3u8",
-  "streams": [
-    "https://live.thebosstv.com:30443/dwlive/Somoy-TV/chunks.m3u8",
-    "https://tfx94gr3uomttgr31hp3tfahdrmmbqbh8c3toq73u1cjqxfozr5udctzy.100ycdn.com/apxvf0ws91.yarncdn.live/live/hd-en-6MvYMRSWnEwiwmE2BJ/playlist.m3u8?wsSession=436e9186b699ddc3ed613af6-178310954377753&wsIPSercert=ded6596d3ee027d436367fe869be7941&wsBindIP=2&wsserid=1168201446953502087"
-  ]
+      "id": 1,
+      "logo": "https://assets.football-logos.cc/logos/tournaments/1500x1500/fifa-world-cup-2026--white.10e0b37b.png",
+      "name": "FIFA লাইভ 🔥",
+      "stream_url": "https://live.thebosstv.com:30443/dwlive/Somoy-TV/chunks.m3u8"
     },
     {
       "category": "Sports",
@@ -269,7 +265,7 @@
   "popup_banner": {
     "channel_id": 1,
     "closeable": true,
-    "enabled": true,
+    "enabled": false,
     "image": "https://i.postimg.cc/J42GmTQf/1000259570.png",
     "show_once": false,
     "title": "ㅤ"
