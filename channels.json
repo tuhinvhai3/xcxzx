@@ -270,9 +270,9 @@
     }
   ],
   "popup_banner": {
-    "channel_id": 2,
+    "channel_id": 1,
     "closeable": true,
-    "enabled": false,
+    "enabled": true,
     "image": "https://i.postimg.cc/J42GmTQf/1000259570.png",
     "show_once": false,
     "title": "ㅤ"
