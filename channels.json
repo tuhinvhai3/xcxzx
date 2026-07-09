@@ -267,6 +267,13 @@
       "logo": "https://s3.aynaott.com/storage/d805cf57543080b49de8a2621cd54da4",
       "name": "ETV",
       "stream_url": "https://ekusheyserver.com/hls-live/livepkgr/_definst_/liveevent/livestream3.m3u8"
+    },
+    {
+      "category": "Sports",
+      "id": 37,
+      "logo": "https://e7.pngegg.com/pngimages/543/199/png-clipart-cricket-live-score-ball-by-ball-indian-premier-league-cricace-live-cricket-scores-news-live-scores-cricket-orange-sports.png",
+      "name": "Live Cricket 24/7",
+      "stream_url": "https://saseries.akamaized.net/hls/live/2110097/ICCt20-tapmad/level_1.m3u8"
     }
   ],
   "popup_banner": {
