@@ -274,6 +274,13 @@
       "logo": "https://s3.aynaott.com/storage/d805cf57543080b49de8a2621cd54da4",
       "name": "ETV",
       "stream_url": "https://ekusheyserver.com/hls-live/livepkgr/_definst_/liveevent/livestream3.m3u8"
+    },
+    {
+      "category": "Sports",
+      "id": 38,
+      "logo": "https://assets.football-logos.cc/logos/tournaments/1500x1500/fifa-world-cup-2026--white.10e0b37b.png",
+      "name": "⚽ FIFA Live 4",
+      "stream_url": "http://203.18.159.115/ZEECAFEHD/tracks-v1a1/momo.m3u8"
     }
   ],
   "popup_banner": {
