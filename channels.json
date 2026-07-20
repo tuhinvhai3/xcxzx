@@ -292,9 +292,9 @@
     "title": "ㅤ"
   },
   "update_banner": {
-    "button_text": "Download",
+    "button_text": "Coming Soon!",
     "download_url": "/",
-    "enabled": false,
+    "enabled": true,
     "message": "Update Now!!",
     "title": "New Update Available"
   }
