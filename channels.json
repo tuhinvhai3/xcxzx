@@ -294,7 +294,7 @@
   "update_banner": {
     "button_text": "Download",
     "download_url": "/",
-    "enabled": true,
+    "enabled": false,
     "message": "Update Now!!",
     "title": "New Update Available"
   }
