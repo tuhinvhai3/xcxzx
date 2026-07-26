@@ -25,13 +25,6 @@
     },
     {
       "category": "Sports",
-      "id": 6,
-      "logo": "https://e7.pngegg.com/pngimages/543/199/png-clipart-cricket-live-score-ball-by-ball-indian-premier-league-cricace-live-cricket-scores-news-live-scores-cricket-orange-sports.png",
-      "name": "Live Cricket 24/7",
-      "stream_url": "http://203.18.159.115/SSCSPORTS5HD/tracks-v1a1/mono.m3u8"
-    },
-    {
-      "category": "Sports",
       "id": 7,
       "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR-yBL_LtOZyat-gfoJnmBhgU3xrT69qDrP3aWzw6--xMl2iHFIvWxRdJ3F&s=10",
       "name": "FIFA+",
