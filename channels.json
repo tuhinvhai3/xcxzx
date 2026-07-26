@@ -25,13 +25,6 @@
     },
     {
       "category": "Sports",
-      "id": 5,
-      "logo": "https://assets.football-logos.cc/logos/tournaments/1500x1500/fifa-world-cup-2026--white.10e0b37b.png",
-      "name": "FIFA Server - 3 🔥",
-      "stream_url": "http://203.18.159.115/SSCSPORTS5HD/tracks-v1a1/mono.m3u8"
-    },
-    {
-      "category": "Sports",
       "id": 6,
       "logo": "https://e7.pngegg.com/pngimages/543/199/png-clipart-cricket-live-score-ball-by-ball-indian-premier-league-cricace-live-cricket-scores-news-live-scores-cricket-orange-sports.png",
       "name": "Live Cricket 24/7",
