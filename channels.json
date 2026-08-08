@@ -246,6 +246,13 @@
       "logo": "https://s3.aynaott.com/storage/d805cf57543080b49de8a2621cd54da4",
       "name": "ETV",
       "stream_url": "https://ekusheyserver.com/hls-live/livepkgr/_definst_/liveevent/livestream3.m3u8"
+    },
+    {
+      "category": "Entertainment",
+      "id": 34,
+      "logo": "https://i.ibb.co.com/ZzffWWHc/Star-Jalsha-logo-2023.png",
+      "name": "Star Jalsha",
+      "stream_url": "https://live.playmax.live/Star-Jalsha/index.m3u8"
     }
   ],
   "popup_banner": {
